@@ -1,0 +1,26 @@
+body {
+  background-color: darkorchid;
+}
+
+.pageHeader {
+  text-align: center;
+  color: chartreuse;
+  font-size: 40px;
+  padding: 1em;
+  text-shadow: 2px 2px black;
+}
+
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.shop {
+  flex-basis: 16%;
+  border: 10px solid black;
+  color:chartreuse;
+  text-align:center;
+  padding: 1em;
+  margin: .5em;
+}
